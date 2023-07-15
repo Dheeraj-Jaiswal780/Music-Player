@@ -1,0 +1,30 @@
+@media screen and (max-width:900px) {
+
+    #navbar {
+        flex-direction: column;
+    }
+
+    #navbar .img {
+        display: flex;
+        justify-content: center;
+        margin-top: 12px;
+    }
+
+    #navbar ul {
+        display: flex;
+        justify-content: center;
+    }
+
+    #navbar .search {
+        display: flex;
+        justify-content: center;
+
+    }
+
+    #navbar .btn {
+        display: flex;
+        justify-content: center;
+        margin-top: -16px;
+    }
+
+}
